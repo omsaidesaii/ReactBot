@@ -141,7 +141,9 @@ const App = () => {
       </div>
       <p className='text-white text-center mt-3 text-[10px]'>ReactBot can make mistakes! cross check it.</p>
     </div>
-
+            <div className='footer text-center text-sm'>
+            Made with ❤️ by @omsaidesaii
+            </div>
     </div>
   )
 }
